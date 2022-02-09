@@ -75,6 +75,18 @@ Responsible for collecting documentation for tender offers.
 
 ## VOLOUNTARY (last 5 years)
 
+Helper/Instructor, University of Edinburgh, UK <br> 
+March 2019 – March 2020 <br>                                                                                     
+For several Data Carpentry workshops organised by Edinburgh Carpentries.
+
+Organising committee member, University of Edinburgh, UK <br> 
+December 2017 <br>                                                                                                                   
+Organising committee member during the AEA Autumn conference 2017.
+
+Volunteer/Research associate, National Museums of Scotland, UK <br> 
+April 2015 – Currently <br>                                                                                           
+At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work.
+
 ## OTHER
 
 Team member, University of Warsaw, PL & Peking University, CN  <br>                                                                                
