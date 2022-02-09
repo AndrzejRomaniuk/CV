@@ -29,21 +29,16 @@ Accreditation:
 
 ### EDUCATION
 
-PhD in Archaeology <br>
-University of Edinburgh, UK, September 2017 – February 2022 <br>
+PhD in Archaeology, University of Edinburgh, UK <br>
+September 2017 – February 2022 <br>
 Thesis title: Rethinking established methodology in micromammal taphonomy: Archaeological case studies from Orkney, UK (4th millennium BC – 15th century AD) <br>
 Studies funded in full by the HCA School Doctoral Scholarship
-                            
-2014 – 2015                                                                                                                         University of Edinburgh, UK
-MSc in Osteoarchaeology
-Thesis title: From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae                                        
-Supervisors: Prof Laszlo Bartosiewicz, Dr Kathleen McSweeney
+            
+MSc in Osteoarchaeology, University of Edinburgh, UK <br>          
+September 2014 – August 2015 <br>
 
-2008 – 2013                                                                                                                              University of Warsaw, PL
-BA & MA in Archaeology 
-Theses related to animal iconography: elephant depictions during the Hellenistic period (BA) and the meaning of a Tao-Tie animal motive during the Shang dynasty, China (MA).   
-Supervisors: Prof Tomasz Waliszewski (BA), Prof Barbara Kaim (MA)
-
+BA & MA in Archaeology, University of Warsaw, PL <br>  
+October 2008 – September 2013   
 
 ### WORKPLACE EXPERIENCE
 
