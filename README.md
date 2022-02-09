@@ -1,8 +1,8 @@
-### GENERAL PROFILE
+## GENERAL PROFILE
 
 Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
 
-### KEY SKILLS
+## KEY SKILLS
 
 Areas of expertise:
 -	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
@@ -27,7 +27,7 @@ Accreditation:
 -	Digital:               University of Edinburgh, Developing Your Data Skills 2020-2021 (level 3)
 -	Driving:             driving license (Pol/EU)
 
-### EDUCATION
+## EDUCATION
 
 PhD in Archaeology, University of Edinburgh, UK <br>
 September 2017 – February 2022 <br>
@@ -40,23 +40,23 @@ September 2014 – August 2015
 BA & MA in Archaeology, University of Warsaw, PL <br>  
 October 2008 – September 2013   
 
-### WORKPLACE EXPERIENCE
+## WORKPLACE EXPERIENCE
 
-### VOLOUNTARY EXPERIENCE
+## VOLOUNTARY EXPERIENCE
 
-### PUBLICATIONS
+## PUBLICATIONS
 
-## PEER-REVIEWED
+### PEER-REVIEWED
 
 Romaniuk, AA, Panciroli, E, Buckley, M, Pal Chowdhury, M, Willars, C, Herman, JS, Troalen, L, Shepherd, AN, Clarke, DV, Sheridan, AS, van Dongen, BE, Butler, IB & R Bendrey 2020. Combined visual and biochemical analyses confirm depositor and diet for Neolithic coprolites from Skara Brae. Journal of Archaeological and Anthropological Sciences 12 (274) DOI
 
 Romaniuk, AA, Shepherd, AN, Clarke, DV, Sheridan, AJ, Fraser, S, Bartosiewicz L & JS Herman 2016. Rodents: food or pests in Neolithic Orkney. Royal Society Open Science 3 (10) DOI 
 
-## PUBLISHED TREACHING MATERIALS
+### PUBLISHED TREACHING MATERIALS
 
 Romaniuk, A 2021. Building interactive web applications in R using SHINY. Zenodo DOI 
 
-## OTHER PUBLISHED
+### OTHER PUBLISHED
 
 Modrzewska-Pianetti, I, Sztuka, IM, Romaniuk, AA, Wesołowska, M & W Ejsmond eds. 2014. ARArchaeological Annals Vol. II(2) 2010. Warsaw, Inter-Faculty Scientific Society for Exploration and Preservation World Cultural Heritage HUMANICA, the University of Warsaw.
 
@@ -64,7 +64,7 @@ Romaniuk, AA 2013. Kulty greckie na terenie Baktrii w okresie istnienia królest
 
 Romaniuk, AA 2012. Słonie na Bliskim Wschodzie w Okresie Hellenistycznym [Elephants in the Near East in the Hellenistic Period]. In Ejsmond, W & A Romaniuk eds. Szkice z Archeologii Bliskiego i Środkowego Wschodu. Warsaw, SKN ASBW „Szarkun”.
 
-## CONFERENCE POSTERS AND PRESENTATIONS (last 5 years)
+### CONFERENCE POSTERS AND PRESENTATIONS (last 5 years)
 
 Romaniuk, A, Bendrey, R, Herman, J, Robin, G & XR Campillo 2020. Statistics, taphonomy and representativeness: Making the most out of archaeological micromammal assemblages. In López-García, JM, Blain, H-A, Blanco-Lapaz, À & SE Rhodes eds. 3rd Meeting of the ICAZ Microvertebrate Working Group, September 1st – 2nd 2020, Tarragona (Spain): Abstracts Book. p. 10
 
