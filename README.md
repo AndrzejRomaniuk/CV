@@ -82,23 +82,26 @@ Responsible for collecting documentation for tender offers. <br>
 
 ## VOLOUNTARY (last 5 years)
 
-Helper/Instructor, University of Edinburgh, UK <br> 
-March 2019 – March 2020 <br>                                                                                     
-For several Data Carpentry workshops organised by Edinburgh Carpentries.
+Helper/Instructor, University of Edinburgh, UK <br>
+March 2019 – March 2020 <br>
+For several Data Carpentry workshops organised by Edinburgh Carpentries. <br>
 
-Organising committee member, University of Edinburgh, UK <br> 
-December 2017 <br>                                                                                                                   
-Organising committee member during the AEA Autumn conference 2017.
 
-Volunteer/Research associate, National Museums of Scotland, UK <br> 
-April 2015 – Currently <br>                                                                                           
-At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work.
+Organising committee member, University of Edinburgh, UK <br>
+December 2017 <br>
+Organising committee member during the AEA Autumn conference 2017. <br>
+
+
+Volunteer/Research associate, National Museums of Scotland, UK <br>
+April 2015 – Currently <br>
+At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br>
+
 
 ## OTHER
 
-Team member, University of Warsaw, PL & Peking University, CN  <br>                                                                                
-2008 – 2013 <br>                                                                                 
-From a practicant and international exchange to a team specialist on various archaeological missions. List of major archaeological sites: <br> 
+Team member, University of Warsaw, PL & Peking University, CN  <br>
+2008 – 2013 <br>
+From a practicant and international exchange to a team specialist on various archaeological missions. List of major archaeological sites: <br>
 -	Poland (Tłuste, Roman influences period settlement; Brudnice, Roman influences period cemetery; Szurpiły, early Medieval fortified settlement)
 -	Crimea (Sevastopol, Greek colonization period farms; Balaklava, Roman military camp)
 -	Turkmenistan (Serahs oasis, Sassanid-Early Islamic fort)
