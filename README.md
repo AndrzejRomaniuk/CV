@@ -1,6 +1,6 @@
 ### GENERAL PROFILE
 
-Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as further develop my skills related to programming and IT.
+Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
 
 ### KEY SKILLS
 
@@ -28,6 +28,22 @@ Accreditation:
 -	Driving:             driving license (Pol/EU)
 
 ### EDUCATION
+
+> PhD in Archaeology
+University of Edinburgh, UK, September 2017 – February 2022 
+Thesis title: Rethinking established methodology in micromammal taphonomy: Archaeological case studies from Orkney, UK (4th millennium BC – 15th century AD)
+
+                            
+2014 – 2015                                                                                                                         University of Edinburgh, UK
+MSc in Osteoarchaeology
+Thesis title: From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae                                        
+Supervisors: Prof Laszlo Bartosiewicz, Dr Kathleen McSweeney
+
+2008 – 2013                                                                                                                              University of Warsaw, PL
+BA & MA in Archaeology 
+Theses related to animal iconography: elephant depictions during the Hellenistic period (BA) and the meaning of a Tao-Tie animal motive during the Shang dynasty, China (MA).   
+Supervisors: Prof Tomasz Waliszewski (BA), Prof Barbara Kaim (MA)
+
 
 ### WORKPLACE EXPERIENCE
 
