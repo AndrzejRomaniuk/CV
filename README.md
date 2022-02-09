@@ -33,11 +33,11 @@ PhD in Archaeology, University of Edinburgh, UK <br>
 September 2017 – February 2022 <br>
 Studies funded in full by the HCA School Doctoral Scholarship <br>
 
-MSc in Osteoarchaeology, University of Edinburgh, UK <br>         
+MSc in Osteoarchaeology, University of Edinburgh, UK <br>
 September 2014 – August 2015 <br>
 
-BA & MA in Archaeology, University of Warsaw, PL <br> 
-October 2008 – September 2013 <br>  
+BA & MA in Archaeology, University of Warsaw, PL <br>
+October 2008 – September 2013 <br>
 
 # EXPERIENCE
 
