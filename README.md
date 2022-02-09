@@ -1,8 +1,8 @@
-## GENERAL PROFILE
+# GENERAL PROFILE
 
 Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
 
-## KEY SKILLS
+# KEY SKILLS
 
 Areas of expertise:
 -	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
@@ -27,7 +27,7 @@ Accreditation:
 -	Digital:           University of Edinburgh, Developing Your Data Skills 2020-2021 (level 3)
 -	Driving:           driving license (Pol/EU)
 
-## EDUCATION
+# EDUCATION
 
 PhD in Archaeology, University of Edinburgh, UK <br>
 September 2017 – February 2022 <br>
@@ -40,7 +40,7 @@ September 2014 – August 2015
 BA & MA in Archaeology, University of Warsaw, PL <br>  
 October 2008 – September 2013   
 
-## EXPERIENCE
+# EXPERIENCE
 
 ### WORKPLACE
 
@@ -48,7 +48,7 @@ October 2008 – September 2013
 
 ### OTHER
 
-## PUBLICATIONS
+# PUBLICATIONS
 
 ### PEER-REVIEWED
 
