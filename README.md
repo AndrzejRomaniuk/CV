@@ -48,19 +48,19 @@ May 2020 – October 2021 <br>
 Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
--	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)
+-	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
 
-Helper, Edinburgh Carpentries, UK <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.
+Helper, Edinburgh Carpentries, UK<br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.<br>
 
-Lab Demonstrator, University of Edinburgh, UK <br> 
-September 2017 – August 2020  <br>                                                                                          
+Lab Demonstrator, University of Edinburgh, UK <br>
+September 2017 – August 2020  <br>
 As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains.  <br> 
 Main courses included:  <br> 
 -	Human Musculo-Skeletal Anatomy
 -	Analytical Methods in Human Osteology
 -	Skeleton Pathology 
--	The Human Skeleton in Archaeology and Forensic Science
+-	The Human Skeleton in Archaeology and Forensic Science <br>
 
 Night shift receptionist/Reservations team member, IBIS Warszawa Centrum - Warsaw, PL  <br> 
 October 2016 – May 2017   <br>                                                                                 
