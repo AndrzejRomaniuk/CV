@@ -48,12 +48,12 @@ Research/Teaching assistant, University of Edinburgh, UK <br>
 Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
--	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
+-	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br><br>
 
 
 Helper, Edinburgh Carpentries, UK<br>
 *April 2021* <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.<br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.<br><br>
 
 
 Lab Demonstrator, University of Edinburgh, UK <br>
@@ -63,39 +63,39 @@ Main courses included:  <br>
 -	Human Musculo-Skeletal Anatomy
 -	Analytical Methods in Human Osteology
 -	Skeleton Pathology 
--	The Human Skeleton in Archaeology and Forensic Science <br>
+-	The Human Skeleton in Archaeology and Forensic Science <br><br>
 
 
 Night shift receptionist/Reservations team member, IBIS Warszawa Centrum - Warsaw, PL  <br>
 *October 2016 – May 2017*   <br>
-Initially responsible for front-desk services for hotel guests, handling individual reservations and end-of-day documentation, including cash register settlement. Later moved to handle long-term corporate/group reservations.<br>
+Initially responsible for front-desk services for hotel guests, handling individual reservations and end-of-day documentation, including cash register settlement. Later moved to handle long-term corporate/group reservations.<br><br>
 
 
 Quality Assurance tester, Proper QA – Edinburgh, UK  <br>
 *September 2015 – February 2016* <br>
-Tester for mobile applications, responsible for testing and documenting found issues in a dedicated application (JIRA). <br>
+Tester for mobile applications, responsible for testing and documenting found issues in a dedicated application (JIRA). <br><br>
 
 
 Junior office assistant internship, Microsystem Group – Warsaw, PL <br>
 *March – September 2013* <br>
-Responsible for collecting documentation for tender offers. <br>
+Responsible for collecting documentation for tender offers. <br><br>
 
 
 ## VOLOUNTARY (last 5 years)
 
 Helper/Instructor, University of Edinburgh, UK <br>
 *March 2019 – March 2020* <br>
-For several Data Carpentry workshops organised by Edinburgh Carpentries. <br>
+For several Data Carpentry workshops organised by Edinburgh Carpentries. <br><br>
 
 
 Organising committee member, University of Edinburgh, UK <br>
 *December 2017* <br>
-Organising committee member during the AEA Autumn conference 2017. <br>
+Organising committee member during the AEA Autumn conference 2017. <br><br>
 
 
-Volunteer/Research associate, National Museums of Scotland, UK <br>
+Volunteer/Research associate, National Museums of Scotland, UK <br><br>
 *April 2015 – Currently* <br>
-At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br>
+At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br><br>
 
 
 ## OTHER
@@ -108,7 +108,7 @@ From a practicant and international exchange to a team specialist on various arc
 -	Turkmenistan (Serahs oasis, Sassanid-Early Islamic fort)
 -	Lebanon (Porphyreion [Jiyeh], late Roman-Bizantine settlement)
 -	Bulgaria (Novae, Roman military camp)
--	China (Dongpin, early Han – late Tang city; Shuang-an, late Neolithic to early Shang cemetery)
+-	China (Dongpin, early Han – late Tang city; Shuang-an, late Neolithic to early Shang cemetery) <br><br>
 
 
 # PUBLICATIONS
