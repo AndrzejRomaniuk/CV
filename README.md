@@ -44,8 +44,8 @@ October 2008 – September 2013 <br>
 ## WORKPLACE (last 10 years)
 
 Research/Teaching assistant, University of Edinburgh, UK <br>
-May 2020 – October 2021 <br>                                                                                                  
-Major work included: <br>
+May 2020 – October 2021 <br>
+Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
 -	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)
