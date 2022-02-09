@@ -6,13 +6,13 @@ Self-driven and passionate about his work, I am a published PhD graduate, lookin
 
 Areas of expertise:
 -	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
--	Teaching:          human osteoarchaeology, pathology
+-	Teaching:          human osteoarchaeology and pathology
 -	Other:             statistical programming
 
 Technical skills:
 -	Software:          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS
 -	Hardware:          3d scanning with EinScan light scanners
--	Programming:       R (RStudio), SQL (SQL Lite)
+-	Programming:       R (RStudio), SQL (SQL Lite), TeX (MiKTeX)
 -	Related:           documenting and hosting a coding project, usage of regular expressions
 
 Interpersonal skills:
