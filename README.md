@@ -31,7 +31,6 @@ Accreditation:
 
 PhD in Archaeology, University of Edinburgh, UK <br>
 September 2017 – February 2022 <br>
-Thesis title: Rethinking established methodology in micromammal taphonomy: Archaeological case studies from Orkney, UK <br>
 Studies funded in full by the HCA School Doctoral Scholarship <br>
             
 MSc in Osteoarchaeology, University of Edinburgh, UK <br>          
