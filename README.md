@@ -50,8 +50,10 @@ Several contract or internal (contractless) work. Major included:<br>
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
 -	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
 
+
 Helper, Edinburgh Carpentries, UK<br>
 During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.<br>
+
 
 Lab Demonstrator, University of Edinburgh, UK <br>
 September 2017 – August 2020  <br>
@@ -62,15 +64,21 @@ Main courses included:  <br>
 -	Skeleton Pathology 
 -	The Human Skeleton in Archaeology and Forensic Science <br>
 
-Night shift receptionist/Reservations team member, IBIS Warszawa Centrum - Warsaw, PL  <br> 
-October 2016 – May 2017   <br>                                                                                 
-Initially responsible for front-desk services for hotel guests, handling individual reservations and end-of-day documentation, including cash register settlement. Later moved to handle long-term corporate/group reservations.
 
-Quality Assurance tester, Proper QA – Edinburgh, UK  <br>                                                                                                                         September 2015 – February 2016 <br>                                                                                                                                
-Tester for mobile applications, responsible for testing and documenting found issues in a dedicated application (JIRA).
+Night shift receptionist/Reservations team member, IBIS Warszawa Centrum - Warsaw, PL  <br>
+October 2016 – May 2017   <br>
+Initially responsible for front-desk services for hotel guests, handling individual reservations and end-of-day documentation, including cash register settlement. Later moved to handle long-term corporate/group reservations.<br>
 
-Junior office assistant internship, Microsystem Group – Warsaw, PL <br>                                                                                                           March – September 2013 <br>                                                                                                                  
-Responsible for collecting documentation for tender offers.
+
+Quality Assurance tester, Proper QA – Edinburgh, UK  <br>
+September 2015 – February 2016 <br>
+Tester for mobile applications, responsible for testing and documenting found issues in a dedicated application (JIRA). <br>
+
+
+Junior office assistant internship, Microsystem Group – Warsaw, PL <br>
+March – September 2013 <br>
+Responsible for collecting documentation for tender offers. <br>
+
 
 ## VOLOUNTARY (last 5 years)
 
