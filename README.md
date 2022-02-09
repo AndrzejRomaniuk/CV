@@ -40,9 +40,13 @@ September 2014 – August 2015
 BA & MA in Archaeology, University of Warsaw, PL <br>  
 October 2008 – September 2013   
 
-## WORKPLACE EXPERIENCE
+## EXPERIENCE
 
-## VOLOUNTARY EXPERIENCE
+### WORKPLACE
+
+### VOLOUNTARY
+
+### OTHER
 
 ## PUBLICATIONS
 
