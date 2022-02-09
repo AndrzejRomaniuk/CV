@@ -2,7 +2,7 @@
 
 Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
 
-<details> # KEY SKILLS <details>
+<details> # KEY SKILLS </details>
 
 Areas of expertise:
 -	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
