@@ -7,19 +7,19 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 ---
 
 **Key Skills**
--	Software:          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS
--	Programming:       R (RStudio), SQL (SQL Lite), TeX (MiKTeX)
--	Technology-related:           3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions
--	Languages:         Polish (native), English (C2), Spanish (A2)
--	Organisation:      research assistance, event preparation, curation of teaching and research collections
--	Teaching:          preparation/supervision of lab exercises, workshops, practical examinations and
+-	**Software:**          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS
+-	**Programming:**       R (RStudio), SQL (SQL Lite), TeX (MiKTeX)
+-	**Technology-related:**           3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions
+-	**Languages:**         Polish (native), English (C2), Spanish (A2)
+-	**Organisation:**      research assistance, event preparation, curation of teaching and research collections
+-	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 
 **Accreditation:**
--	Languages:         English, Certificate of Proficiency in English
--	Teaching:          Advance HE, associate
--	Digital:           University of Edinburgh, Developing Your Data Skills 2020-2021
--	Driving:           driving license (Pol/EU)
+-	**Languages:**        English, Certificate of Proficiency in English
+-	**Teaching:**          Advance HE, associate
+-	**Digital:**           University of Edinburgh, Developing Your Data Skills 2020-2021
+-	**Driving:**           driving license (Pol/EU)
 
 # EDUCATION
 ---
