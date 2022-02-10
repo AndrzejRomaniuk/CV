@@ -1,15 +1,10 @@
 # GENERAL PROFILE
 ---
 
-Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
+Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities inside and outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming, especially the utilization of classification algorithms and machine learning.
 
 # KEY SKILLS
 ---
-
-**Areas of expertise:**
--	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
--	Teaching:          human osteoarchaeology and pathology
--	Other:             statistical programming
 
 **Technical skills:**
 -	Software:          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS
@@ -72,7 +67,8 @@ Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
 -	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
-</details> <br>
+</details> 
+<br>
 
 **Helper**, Edinburgh Carpentries, UK<br>
 *April 2021* <br>
