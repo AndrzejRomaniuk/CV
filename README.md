@@ -3,16 +3,13 @@
 
 Self-driven and passionate about his work, I am a published PhD graduate with research background in archaeology, on the side slowly exploring the realm of programming.
 
-# KEY SKILLS
+# SKILLS
 ---
 
-**Technical skills:**
+**Key Skills**
 -	Software:          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS
--	Hardware:          3d scanning with EinScan light scanners
 -	Programming:       R (RStudio), SQL (SQL Lite), TeX (MiKTeX)
--	Related:           documenting and hosting a coding project, usage of regular expressions
-
-**Interpersonal skills:**
+-	Technology-related:           3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions
 -	Languages:         Polish (native), English (C2), Spanish (A2)
 -	Organisation:      research assistance, event preparation, curation of teaching and research collections
 -	Teaching:          preparation/supervision of lab exercises, workshops, practical examinations and
