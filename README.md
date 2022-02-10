@@ -139,34 +139,27 @@ From a practicant and international exchange to a team specialist on various arc
 
 ## PEER-REVIEWED
 
-<details><summary>Click For Details</summary>
-  
 **Romaniuk, AA, Panciroli, E, Buckley, M, Pal Chowdhury, M, Willars, C, Herman, JS, Troalen, L, Shepherd, AN, Clarke, DV, Sheridan, AS, van Dongen, BE, Butler, IB & R Bendrey 2020.** Combined visual and biochemical analyses confirm depositor and diet for Neolithic coprolites from Skara Brae. Journal of Archaeological and Anthropological Sciences 12 (274) DOI: [https://doi.org/10.1007/s12520-020-01225-9](https://doi.org/10.1007/s12520-020-01225-9)
 
 **Romaniuk, AA, Shepherd, AN, Clarke, DV, Sheridan, AJ, Fraser, S, Bartosiewicz L & JS Herman 2016.** Rodents: food or pests in Neolithic Orkney. Royal Society Open Science 3 (10) DOI: [http://rsos.royalsocietypublishing.org/content/3/10/160514](http://rsos.royalsocietypublishing.org/content/3/10/160514)
-</details>
+
   
 ## PUBLISHED TREACHING MATERIALS
-
-<details><summary>Click For Details</summary>
   
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
-</details>
-  
-## OTHER PUBLISHED
 
-<details><summary>Click For Details</summary>
+
+<details><summary>**Click for Other Published Work**</summary>
+
+## OTHER PUBLISHED
   
 **Modrzewska-Pianetti, I, Sztuka, IM, Romaniuk, AA, Wesołowska, M & W Ejsmond eds. 2014.** ARArchaeological Annals Vol. II(2) 2010. Warsaw, Inter-Faculty Scientific Society for Exploration and Preservation World Cultural Heritage HUMANICA, the University of Warsaw.
 
 **Romaniuk, AA 2013.** Kulty greckie na terenie Baktrii w okresie istnienia królestwa Greków Baktryjskich [Greek Cults in Bactria during the Reign of Graeco-Bactrian Kingdom]. In J Hamburg ed. Szkice z Archeologii Bliskiego i Środkowego Wschodu: Tom II. Warsaw, SKN ASBW „Szarkun”.
 
 **Romaniuk, AA 2012.** Słonie na Bliskim Wschodzie w Okresie Hellenistycznym [Elephants in the Near East in the Hellenistic Period]. In Ejsmond, W & A Romaniuk eds. Szkice z Archeologii Bliskiego i Środkowego Wschodu. Warsaw, SKN ASBW „Szarkun”.
-</details>
   
 ## CONFERENCE POSTERS AND PRESENTATIONS (last 5 years)
-
-<details><summary>Click For Details</summary>
   
 **Romaniuk, A, Bendrey, R, Herman, J, Robin, G & XR Campillo 2020.** Statistics, taphonomy and representativeness: Making the most out of archaeological micromammal assemblages. In López-García, JM, Blain, H-A, Blanco-Lapaz, À & SE Rhodes eds. 3rd Meeting of the ICAZ Microvertebrate Working Group, September 1st – 2nd 2020, Tarragona (Spain): Abstracts Book. p. 10
 
