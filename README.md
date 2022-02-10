@@ -43,6 +43,7 @@ Studies funded in full by the HCA School Doctoral Scholarship <br>
 *September 2014 – August 2015* <details><summary>Click For Details</summary>
   Thesis title: *From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae*<br>
 Supervisors: Prof Laszlo Bartosiewicz, Dr Kathleen McSweeney<br>
+Studies partially funded by the HCA School Master Scholarship <br>
 </details> <br>
 
 **BA & MA in Archaeology**, University of Warsaw, PL <br>
@@ -57,12 +58,12 @@ Supervisors: Prof Tomasz Waliszewski (BA), Prof Barbara Kaim (MA)<br>
 ## WORKPLACE (last 10 years)
 
 **Research/Teaching assistant**, University of Edinburgh, UK <br>
-*May 2020 – October 2021* <br>
+*May 2020 – October 2021*  <details><summary>Click For Details</summary>
 Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
--	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br><br>
-
+-	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
+</details> <br>
 
 **Helper**, Edinburgh Carpentries, UK<br>
 *April 2021* <br>
