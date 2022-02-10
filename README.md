@@ -88,7 +88,7 @@ For several Data Carpentry workshops organised by Edinburgh Carpentries. <br><br
 
 **Organising committee member**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *December 2017* <br>
-Organising committee member during the AEA Autumn conference 2017. <br><br>
+Organising committee member during the AEA Autumn conference 2017 (See conference abstract [HERE](https://www.ed.ac.uk/files/atoms/files/aea_conference_final_programme.pdf)). <br><br>
 
 
 **Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/), UK <br><br>
