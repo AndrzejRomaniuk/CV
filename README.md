@@ -130,10 +130,12 @@ From a practicant and international exchange to a team specialist on various arc
 
 ## PEER-REVIEWED
 
+<details><summary>Click For Details</summary>
 **Romaniuk, AA, Panciroli, E, Buckley, M, Pal Chowdhury, M, Willars, C, Herman, JS, Troalen, L, Shepherd, AN, Clarke, DV, Sheridan, AS, van Dongen, BE, Butler, IB & R Bendrey 2020.** Combined visual and biochemical analyses confirm depositor and diet for Neolithic coprolites from Skara Brae. Journal of Archaeological and Anthropological Sciences 12 (274) DOI: [https://doi.org/10.1007/s12520-020-01225-9](https://doi.org/10.1007/s12520-020-01225-9)
 
 **Romaniuk, AA, Shepherd, AN, Clarke, DV, Sheridan, AJ, Fraser, S, Bartosiewicz L & JS Herman 2016.** Rodents: food or pests in Neolithic Orkney. Royal Society Open Science 3 (10) DOI: [http://rsos.royalsocietypublishing.org/content/3/10/160514](http://rsos.royalsocietypublishing.org/content/3/10/160514)
-
+<details>
+  
 ## PUBLISHED TREACHING MATERIALS
 
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
