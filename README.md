@@ -11,7 +11,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 -	**Programming:**       R (RStudio), SQL (SQL Lite), TeX (MiKTeX)
 -	**Technology-related:**           3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions
 -	**Languages:**         Polish (native), English (C2), Spanish (A2)
--	**Organisation:**      research assistance, event preparation, curation of teaching and research collections
+-	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching and research collections
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 
@@ -52,12 +52,12 @@ During data carpentry sessions, organised by Edinburgh Carpentries as a part of 
 
 **Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – August 2020*  <br>
-As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains.  <br> 
+As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, Dr Linda Fibiger and Dr Kathleen McSweeney.  <br> 
 Main courses included:  <br> 
--	Human Musculo-Skeletal Anatomy
--	Analytical Methods in Human Osteology
--	Skeleton Pathology 
--	The Human Skeleton in Archaeology and Forensic Science <br><br>
+-	[Human Musculo-Skeletal Anatomy](http://www.drps.ed.ac.uk/15-16/dpt/cxpghc11367.htm)
+-	[Analytical Methods in Human Osteology](http://www.drps.ed.ac.uk/16-17/dpt/cxpghc11230.htm)
+-	[Skeletal Pathology](http://www-test.drps.ed.ac.uk/16-17/dpt/cxpghc11231.htm)
+-	[The Human Skeleton in Archaeology and Forensic Science](http://www.drps.ed.ac.uk/20-21/dpt/cxarca08014.htm) <br><br>
 
 
 **Night shift receptionist/Reservations team member**, [IBIS Warszawa Centrum](https://all.accor.com/hotel/2894/index.pl.shtml) - Warsaw, PL  <br>
