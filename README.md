@@ -43,7 +43,7 @@ Studies funded in full by the HCA School Doctoral Scholarship <br>
 **MSc in Osteoarchaeology**, University of Edinburgh, UK <br>
 *September 2014 – August 2015* <br>
 <details><summary>Click For Details</summary>
-Thesis title: *From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae*<br>
+  Thesis title: *From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae*<br>
 Supervisors: Prof Laszlo Bartosiewicz, Dr Kathleen McSweeney<br>
 </details>
 
