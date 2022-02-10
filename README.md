@@ -80,7 +80,7 @@ Responsible for collecting documentation for tender offers. <br><br>
 
 ## VOLOUNTARY (last 5 years)
 
-**Helper/Instructor**, University of Edinburgh, UK <br>
+**Helper/Instructor**, [Edinburgh Carpentries](https://edcarp.github.io/), UK <br>
 *March 2019 – March 2020* <br>
 For several Data Carpentry workshops organised by Edinburgh Carpentries. <br><br>
 
