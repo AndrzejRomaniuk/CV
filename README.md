@@ -33,21 +33,27 @@ Self-driven and passionate about his work, I am a published PhD graduate, lookin
 ---
 
 **PhD in Archaeology**, University of Edinburgh, UK <br>
-*September 2017 – February 2022* <details><summary>Click For Details</summary>
+*September 2017 – February 2022* 
+
+<details><summary>Click For Details</summary>
 Thesis title: *Rethinking established methodology in micromammal taphonomy: Archaeological case studies from Orkney, UK (4th millennium BC – 15th century AD)*<br>
 Supervisors: Dr Robin Bendrey, Dr Guillaume Robin <br>
 Studies funded in full by the HCA School Doctoral Scholarship <br>
 </details> <br>
 
 **MSc in Osteoarchaeology**, University of Edinburgh, UK <br>
-*September 2014 – August 2015* <details><summary>Click For Details</summary>
+*September 2014 – August 2015* 
+
+<details><summary>Click For Details</summary>
   Thesis title: *From simple studies to complex issues: Research on rodent bone assemblages from Skara Brae*<br>
 Supervisors: Prof Laszlo Bartosiewicz, Dr Kathleen McSweeney<br>
 Studies partially funded by the HCA School Master Scholarship <br>
 </details> <br>
 
 **BA & MA in Archaeology**, University of Warsaw, PL <br>
-*October 2008 – September 2013* <details><summary>Click For Details</summary>
+*October 2008 – September 2013* 
+
+<details><summary>Click For Details</summary>
 Theses related to animal iconography: elephant depictions during the Hellenistic period (BA) and the meaning of a Tao-Tie animal motive during the Shang dynasty, China (MA).<br>
 Supervisors: Prof Tomasz Waliszewski (BA), Prof Barbara Kaim (MA)<br>
 </details> <br>
