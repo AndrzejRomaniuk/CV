@@ -26,7 +26,8 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – February 2022* <br>
-For the sake of thesis reproducibility, majority of analytical work was done in R. Thesis, with associated attachments, will be publicly available from June/July 2022, with R code project from 2023<br>
+For the sake of thesis reproducibility, majority of analytical work was done in R.<br>
+Thesis, with associated attachments, will be publicly available from June/July 2022, with R code project from 2023.<br>
 
 **Master in Science (MSc)** in Osteoarchaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2014 – August 2015* <br>
