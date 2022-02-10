@@ -1,8 +1,10 @@
 # GENERAL PROFILE
+---
 
 Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming and IT.
 
 # KEY SKILLS
+---
 
 **Areas of expertise:**
 -	Research:          zooarchaeology, comparative anatomy, taphonomy, micromammal biology
@@ -28,6 +30,7 @@ Self-driven and passionate about his work, I am a published PhD graduate, lookin
 -	Driving:           driving license (Pol/EU)
 
 # EDUCATION
+---
 
 **PhD in Archaeology**, University of Edinburgh, UK <br>
 *September 2017 – February 2022* <br>
@@ -40,6 +43,7 @@ Studies funded in full by the HCA School Doctoral Scholarship <br>
 *October 2008 – September 2013* <br>
 
 # EXPERIENCE
+---
 
 ## WORKPLACE (last 10 years)
 
@@ -112,6 +116,7 @@ From a practicant and international exchange to a team specialist on various arc
 
 
 # PUBLICATIONS
+---
 
 ## PEER-REVIEWED
 
