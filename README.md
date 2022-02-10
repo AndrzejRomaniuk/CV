@@ -1,7 +1,7 @@
 # GENERAL PROFILE
 ---
 
-Self-driven and passionate about his work, I am a published PhD graduate, looking for long-term career opportunities inside and outside of academia. I am especially interested in work where I can use the analytical skills I already possess as well as develop skills related to programming.
+Self-driven and passionate about his work, I am a published PhD graduate with research background in archaeology, on the side slowly exploring the realm of programming.
 
 # KEY SKILLS
 ---
@@ -42,13 +42,11 @@ Self-driven and passionate about his work, I am a published PhD graduate, lookin
 ## WORKPLACE (last 10 years)
 
 **Research/Teaching assistant**, University of Edinburgh, UK <br>
-*May 2020 – October 2021*  <details><summary>Click For Details</summary>
+*May 2020 – October 2021*<br>
 Several contract or internal (contractless) work. Major included:<br>
 -	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
--	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br>
-</details> 
-<br>
+-	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (Link1; full citation in the Published Teaching Materials CV section)<br><br>
 
 **Helper**, Edinburgh Carpentries, UK<br>
 *April 2021* <br>
