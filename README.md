@@ -19,9 +19,9 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 
 **Accreditation:**
--	Languages:         English, Certificate of Proficiency in English (id. 165PL0028017)
--	Teaching:          Advance HE, associate (id. PR186097)
--	Digital:           University of Edinburgh, Developing Your Data Skills 2020-2021 (level 3)
+-	Languages:         English, Certificate of Proficiency in English
+-	Teaching:          Advance HE, associate
+-	Digital:           University of Edinburgh, Developing Your Data Skills 2020-2021
 -	Driving:           driving license (Pol/EU)
 
 # EDUCATION
