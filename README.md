@@ -24,14 +24,14 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 # EDUCATION
 ---
 
-**PhD in Archaeology**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
+**Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – February 2022* <br>
 For the sake of thesis work reproducibility, majority of analytical work was coded in R.<br>
 
-**MSc in Osteoarchaeology**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
+**Master in Science (MSc)** in Osteoarchaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2014 – August 2015* <br>
 
-**BA & MA in Archaeology**, [University of Warsaw](https://www.archeologia.uw.edu.pl/en/new-main-page/), PL <br>
+**Bachelor of Arts (BA)/Master of Arts (MA)** in Archaeology, [University of Warsaw](https://www.archeologia.uw.edu.pl/en/new-main-page/), PL <br>
 *October 2008 – September 2013* <br>
 
 # EXPERIENCE
