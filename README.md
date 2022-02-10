@@ -105,7 +105,7 @@ From a practicant and international exchange to a team specialist on various arc
 -	China (Dongpin, early Han – late Tang city; Shuang-an, late Neolithic to early Shang cemetery) <br><br>
 
 
-# PUBLICATIONS (displayed English only)
+# PUBLICATIONS (in English)
 ---
 
 ## PEER-REVIEWED
