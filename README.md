@@ -52,8 +52,7 @@ During data carpentry sessions, organised by Edinburgh Carpentries as a part of 
 
 **Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – August 2020*  <br>
-As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, Dr Linda Fibiger and Dr Kathleen McSweeney.  <br> 
-Main courses included:  <br> 
+As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, Dr [Linda Fibiger](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_tab1_academic.php?uun=lfibiger) and [Dr Kathleen McSweeney](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=8&uun=kmcsween). Main courses included:  <br> 
 -	[Human Musculo-Skeletal Anatomy](http://www.drps.ed.ac.uk/15-16/dpt/cxpghc11367.htm)
 -	[Analytical Methods in Human Osteology](http://www.drps.ed.ac.uk/16-17/dpt/cxpghc11230.htm)
 -	[Skeletal Pathology](http://www-test.drps.ed.ac.uk/16-17/dpt/cxpghc11231.htm)
@@ -115,7 +114,7 @@ From a practicant and international exchange to a team specialist on various arc
 **Romaniuk, AA, Shepherd, AN, Clarke, DV, Sheridan, AJ, Fraser, S, Bartosiewicz L & JS Herman 2016.** Rodents: food or pests in Neolithic Orkney. Royal Society Open Science 3 (10) DOI: [http://rsos.royalsocietypublishing.org/content/3/10/160514](http://rsos.royalsocietypublishing.org/content/3/10/160514)
 
   
-## PUBLISHED TREACHING MATERIALS
+## TREACHING MATERIALS
   
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
 
