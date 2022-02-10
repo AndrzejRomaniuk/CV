@@ -26,8 +26,6 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – February 2022* <br>
-For the sake of thesis reproducibility, majority of analytical work was done in R.<br>
-Thesis, with associated attachments, will be publicly available from June/July 2022, with R code project from 2023.<br>
 
 **Master in Science (MSc)** in Osteoarchaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2014 – August 2015* <br>
@@ -42,10 +40,10 @@ Thesis, with associated attachments, will be publicly available from June/July 2
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
-Several contract or internal (contractless) work. Major included:<br>
--	Curatorial work for the National Museums of Scotland (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
+Several contract or internal (contractless) work for the [School of History Classics and Archaeology](https://www.ed.ac.uk/history-classics-archaeology) (HCA) and [Centre for Data, Culture and Society](https://www.cdcs.ed.ac.uk/) (CDCS). Major included:<br>
+-	Curatorial work for the [National Museums of Scotland Natural Sciences](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/) department (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
--	Preparation of a tutorial on creating simple web applications for the Centre for Data, Culture and Society, University of Edinburgh (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
+-	Preparation of a tutorial on creating simple web applications for CDCS (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
 
 **Helper**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
 *April 2021* <br>
@@ -72,7 +70,7 @@ Initially responsible for front-desk services for hotel guests, handling individ
 Tester for mobile applications, responsible for testing and documenting found issues in a dedicated application (JIRA). <br><br>
 
 
-**Junior office assistant internship**, Microsystem Group – Warsaw, PL <br>
+**Junior office assistant internship**, [Microsystem Group](https://gb.kompass.com/c/microsystem-group-andrzej-synejko-i-joanna-synejko-sp-j/pl080693/) – Warsaw, PL <br>
 *March – September 2013* <br>
 Responsible for collecting documentation for tender offers. <br><br>
 
@@ -89,7 +87,7 @@ For several Data Carpentry workshops organised by Edinburgh Carpentries. <br><br
 Organising committee member during the AEA Autumn conference 2017 (See conference abstract [HERE](https://www.ed.ac.uk/files/atoms/files/aea_conference_final_programme.pdf)). <br><br>
 
 
-**Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/), UK <br><br>
+**Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/), UK <br><br>
 *April 2015 – Currently* <br>
 At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br><br>
 
