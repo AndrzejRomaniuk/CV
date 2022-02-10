@@ -42,7 +42,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 *May 2020 – October 2021*<br>
 Several contract or internal (contractless) work for the [School of History Classics and Archaeology](https://www.ed.ac.uk/history-classics-archaeology) (HCA) and [Centre for Data, Culture and Society](https://www.cdcs.ed.ac.uk/) (CDCS). Major included:<br>
 -	Curatorial work for the [National Museums of Scotland Natural Sciences](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/) department (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
--	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals
+-	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals, under the supervision of Dr [Robin Bendrey](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=2&uun=rbendrey)
 -	Preparation of a tutorial on creating simple web applications for CDCS (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
 
 **Helper**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
@@ -52,7 +52,7 @@ During data carpentry sessions, organised by Edinburgh Carpentries as a part of 
 
 **Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – August 2020*  <br>
-As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, Dr [Linda Fibiger](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_tab1_academic.php?uun=lfibiger) and [Dr Kathleen McSweeney](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=8&uun=kmcsween). Main courses included:  <br> 
+As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, [Dr Linda Fibiger](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_tab1_academic.php?uun=lfibiger) and [Dr Kathleen McSweeney](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=8&uun=kmcsween). Main courses included:  <br> 
 -	[Human Musculo-Skeletal Anatomy](http://www.drps.ed.ac.uk/15-16/dpt/cxpghc11367.htm)
 -	[Analytical Methods in Human Osteology](http://www.drps.ed.ac.uk/16-17/dpt/cxpghc11230.htm)
 -	[Skeletal Pathology](http://www-test.drps.ed.ac.uk/16-17/dpt/cxpghc11231.htm)
