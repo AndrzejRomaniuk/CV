@@ -86,7 +86,7 @@ For several Data Carpentry workshops organised by Edinburgh Carpentries (See exa
 Organising committee member during the AEA Autumn conference 2017 (See conference abstract [HERE](https://www.ed.ac.uk/files/atoms/files/aea_conference_final_programme.pdf)). <br><br>
 
 
-**Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/), UK <br><br>
+**Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/), UK <br>
 *April 2015 – Currently* <br>
 At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br><br>
 
