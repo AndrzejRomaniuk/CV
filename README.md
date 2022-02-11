@@ -78,7 +78,7 @@ Responsible for collecting documentation for tender offers. <br><br>
 
 **Helper/Instructor**, [Edinburgh Carpentries](https://edcarp.github.io/), UK <br>
 *March 2019 – March 2020* <br>
-For several Data Carpentry workshops organised by Edinburgh Carpentries. <br><br>
+For several Data Carpentry workshops organised by Edinburgh Carpentries (See example workshops [HERE](https://edcarp.github.io/2019-02-18-edinburgh-business-school/) and [HERE](https://edcarp.github.io/2019-05-06-edinburgh/)).<br><br>
 
 
 **Organising committee member**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
