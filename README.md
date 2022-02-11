@@ -23,7 +23,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 -	**Digital:**           University of Edinburgh, Developing Your Data Skills 2020-2021
 -	**Driving:**           driving license (Pol/EU)
 
-# EDUCATION
+# 📖EDUCATION
 ---
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
