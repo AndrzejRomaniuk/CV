@@ -17,7 +17,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 -	**Technology-related:**           3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions
 
-**Accreditation:**
+**Accreditation**
 -	**Languages:**        English, Certificate of Proficiency in English
 -	**Teaching:**          Advance HE, associate
 -	**Digital:**           University of Edinburgh, Developing Your Data Skills 2020-2021
