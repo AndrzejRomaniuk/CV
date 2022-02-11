@@ -98,12 +98,12 @@ At the Natural Sciences department. Related to vertebrate collection and MSc/PhD
 **Team member**, [University of Warsaw](https://www.archeologia.uw.edu.pl/en/new-main-page/), PL & [Peking University](http://archaeology.pku.edu.cn/), CN  <br>
 *August 2008 – August 2013* <br>
 From a practicant and international exchange to a team specialist on various archaeological missions. List of major archaeological sites: <br>
--	Poland (Tłuste, Roman influences period settlement; Brudnice, Roman influences period cemetery; Szurpiły, early Medieval fortified settlement)
--	Crimea (Sevastopol, Greek colonization period farms; Balaklava, Roman military camp)
--	Turkmenistan (Serahs oasis, Sassanid-Early Islamic fort)
--	Lebanon (Porphyreion [Jiyeh], late Roman-Bizantine settlement)
--	Bulgaria (Novae, Roman military camp)
--	China (Dongpin, early Han – late Tang city; Shuang-an, late Neolithic to early Shang cemetery) <br><br>
+-	Poland (*Tłuste*, Roman influences period settlement; *Brudnice*, Roman influences period cemetery; *Szurpiły*, early Medieval fortified settlement)
+-	Crimea (*Sevastopol*, Greek colonization period farms; *Balaklava*, Roman military camp)
+-	Turkmenistan (*Serahs* oasis, Sassanid-Early Islamic fort)
+-	Lebanon (*Porphyreion* [*Jiyeh*], late Roman-Bizantine settlement)
+-	Bulgaria (*Novae*, Roman military camp)
+-	China (*Dongpin*, early Han – late Tang city; *Shuang-an*, late Neolithic to early Shang cemetery) <br><br>
 
 
 # PUBLICATIONS (in English)
