@@ -1,11 +1,11 @@
-# GENERAL PROFILE
+# 🐭GENERAL PROFILE
 ---
 
 Self-driven and passionate about his work, I am a published PhD graduate with research background in archaeology, on the side slowly exploring the realm of programming.
 
 [Email](mailto:andrzej9001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/0000-0002-4977-9241) / [HCA Profile](https://www.ed.ac.uk/profile/andrzej-romaniuk) / [Researchgate](https://www.researchgate.net/profile/Andrzej-Romaniuk)
 
-# SKILLS
+# 💻SKILLS
 ---
 
 **Key Skills**
@@ -23,7 +23,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 -	**Digital:**           University of Edinburgh, Developing Your Data Skills 2020-2021
 -	**Driving:**           driving license (Pol/EU)
 
-# 📖EDUCATION
+# 🔬EDUCATION
 ---
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
@@ -35,10 +35,10 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 **Bachelor of Arts (BA)/Master of Arts (MA)** in Archaeology, [University of Warsaw](https://www.archeologia.uw.edu.pl/en/new-main-page/), PL <br>
 *October 2008 – September 2013* <br>
 
-# EXPERIENCE
+# 🔨EXPERIENCE
 ---
 
-## 📗WORKPLACE (last 10 years)
+## WORKPLACE (last 10 years)
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
@@ -106,7 +106,7 @@ From a practicant and international exchange to a team specialist on various arc
 -	China (*Dongpin*, early Han – late Tang city; *Shuang-an*, late Neolithic to early Shang cemetery) <br><br>
 
 
-# PUBLICATIONS (in English)
+# 📖PUBLICATIONS (in English)
 ---
 
 ## PEER-REVIEWED
