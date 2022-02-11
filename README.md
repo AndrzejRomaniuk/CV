@@ -3,6 +3,9 @@
 
 Self-driven and passionate about his work, I am a published PhD graduate with research background in archaeology, on the side slowly exploring the realm of programming.
 
+[Email](mailto:andrzej9001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/
+0000-0002-4977-9241)
+
 # SKILLS
 ---
 
@@ -42,7 +45,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 *May 2020 – October 2021*<br>
 Several contract or internal (contractless) work for the [School of History Classics and Archaeology](https://www.ed.ac.uk/history-classics-archaeology) (HCA) and [Centre for Data, Culture and Society](https://www.cdcs.ed.ac.uk/) (CDCS). Major included:<br>
 -	Curatorial work for the [National Museums of Scotland Natural Sciences](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/) department (creating a database of red squirrel Sciurus vulgaris skeletal specimens, measurements and pathological changes recording, supporting related research)
--	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals, under the supervision of Dr [Robin Bendrey](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=2&uun=rbendrey)
+-	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals, under the supervision of [Dr Robin Bendrey](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=2&uun=rbendrey)
 -	Preparation of a tutorial on creating simple web applications for CDCS (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
 
 **Helper**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
