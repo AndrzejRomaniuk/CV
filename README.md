@@ -38,7 +38,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with re
 # EXPERIENCE
 ---
 
-## WORKPLACE (last 10 years)
+## 📗WORKPLACE (last 10 years)
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
