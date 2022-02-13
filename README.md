@@ -7,11 +7,6 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 ![Everything can be classified, as long as you have appropriate data](Background.jpg)
 
-# 📜TABLE OF CONTENTS
----
-
-* TOC
-{:toc}
 
 # 💻SKILLS
 ---
