@@ -31,7 +31,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – February 2022* <br>
-See NMS blog entry on the research [HERE](https://blog.nms.ac.uk/2018/04/04/of-voles-and-men/) and Twitter post [HERE](https://blog.nms.ac.uk/2018/04/04/of-voles-and-men/) <br>
+See NMS blog entry on the research [HERE](https://blog.nms.ac.uk/2018/04/04/of-voles-and-men/) and Twitter post [HERE](https://twitter.com/NatSciNMS/status/935119929292009472) <br>
 Side project on coprolites (fossilized faeces) published [HERE](https://doi.org/10.1007/s12520-020-01225-9) <br>
 
 **Master in Science (MSc)** in Osteoarchaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
