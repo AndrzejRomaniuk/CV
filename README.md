@@ -55,7 +55,7 @@ Several contract or internal (contractless) work for the [School of History Clas
 
 **Helper**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
 *April 2021* <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme.<br><br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme. See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/). <br><br>
 
 
 **Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
