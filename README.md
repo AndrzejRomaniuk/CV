@@ -18,7 +18,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 -	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching and research collections
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
--	**Technology-related:**  3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions, basics of machine learning in R
+-	**Technology-related:**  3d scanning with EinScan light scanners, documenting and hosting a coding project, usage of regular expressions, statistical programming, basics of machine learning and app creation in R
 
 **Accreditation**
 -	**Languages:**        English, Certificate of Proficiency in English
