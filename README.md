@@ -13,7 +13,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 **Key Skills**
 -	**Software:**          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS, TeX (MiKTeX)
--	**Programming:**       R (RStudio), SQL (SQL Lite), Python
+-	**Programming:**       R (RStudio), SQL (SQLite), Python
 -	**Languages:**         Polish (native), English (C2), Spanish (A2)
 -	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching and research collections, writing and publishing research papers
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
