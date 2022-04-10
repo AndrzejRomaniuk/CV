@@ -54,9 +54,9 @@ Several contract or internal (contractless) work for the [School of History Clas
 -	Literature reviews/pilot work for two pilot projects related to brucellosis and leprosy in animals, under the supervision of [Dr Robin Bendrey](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=2&uun=rbendrey)
 -	Preparation of a tutorial on creating simple web applications for CDCS (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
 
-**Helper**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
-*April 2021* <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme. See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/). <br><br>
+**Helper/Instructor**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
+*April 2021 / April 2022* <br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme. See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, and [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) for 2022 season. <br><br>
 
 
 **Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
