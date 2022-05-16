@@ -96,7 +96,7 @@ Organising committee member during the AEA Autumn conference 2017 (See conferenc
 
 
 **Volunteer/Research associate**, [National Museums of Scotland](https://www.nms.ac.uk/collections-research/collections-departments/natural-sciences/), UK <br>
-*April 2015 – Currently* <br>
+*April 2015 – February 2022* <br>
 At the Natural Sciences department. Related to vertebrate collection and MSc/PhD work. <br><br>
 
 
