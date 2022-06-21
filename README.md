@@ -47,6 +47,9 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 
 ## WORKPLACE (last 10 years)
 
+**Postdoctoral Researcher**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
+*Starting September 2022*<br>
+
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
 Several contract or internal (contractless) work for the [School of History Classics and Archaeology](https://www.ed.ac.uk/history-classics-archaeology) (HCA) and [Centre for Data, Culture and Society](https://www.cdcs.ed.ac.uk/) (CDCS). Major included:<br>
