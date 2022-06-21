@@ -49,6 +49,7 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 
 **Postdoctoral Researcher**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *Starting September 2022*<br>
+Related to IASH HCA fellowship, awarded June 2022. Currently preparing for the position. <br><br>
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
