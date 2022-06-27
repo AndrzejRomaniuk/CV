@@ -93,6 +93,10 @@ Responsible for collecting documentation for tender offers. <br><br>
 
 ## VOLOUNTARY (since 2015)
 
+**Instructor**, [CAA Poland](https://pl.caa-international.org/), PL <br>
+*June 2022* <br>
+Delivered a self-designed workshop on how to design simple applications in R during the [Forum GIS UW 2022](https://pl.caa-international.org/caa-polska-forum-gis-uw-2022/) conference. Official workshop page available [HERE](https://pl.caa-international.org/2022/06/09/caa2022-data-science-projektowanie-aplikacji-shiny/?fbclid=IwAR1KVkgOmwrorUQ1l5X1TWxPvQ_PIePzv0C_o9LKeX-oTZY3RLG5YLPwtuI), with Github repository available [HERE](https://github.com/AndrzejRomaniuk/ShinySamouczek).<br><br>
+
 **Helper/Instructor**, [Edinburgh Carpentries](https://edcarp.github.io/), UK <br>
 *March 2019 – March 2020* <br>
 For several Data Carpentry workshops organised by Edinburgh Carpentries (See example workshops [HERE](https://edcarp.github.io/2019-02-18-edinburgh-business-school/) and [HERE](https://edcarp.github.io/2019-05-06-edinburgh/)).<br><br>
