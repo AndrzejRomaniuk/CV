@@ -15,7 +15,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 -	**Software:**          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS, TeX (MiKTeX)
 -	**Programming:**       R (RStudio), SQL (SQLite), Python
 -	**Languages:**         Polish (native), English (C2), Spanish (A2)
--	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching and research collections, writing and publishing research papers
+-	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching, research and museum collections, writing and publishing research papers
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 -	**Technology-related:**  documenting and hosting a coding project, usage of regular expressions, statistical programming, basics of machine learning and app creation in R, 3d scanning with EinScan light scanners
@@ -49,7 +49,7 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 
 **Postdoctoral Researcher**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *Starting September 2022*<br>
-Related to IASH HCA fellowship, awarded June 2022. Currently preparing for the position. <br><br>
+Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves around the usage of geometric-morphometric analytical methods on archaeological material, and the comparison of the results with modern samples. Currently preparing for the position. <br><br>
 
 **Qualified Exhibition Supervisor**, [Museum of Warsaw](https://muzeumwarszawy.pl/en/), UK <br>
 *May 2022 - July 2022*<br>
