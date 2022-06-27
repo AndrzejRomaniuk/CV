@@ -51,7 +51,7 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 *Starting September 2022*<br>
 Related to IASH HCA fellowship, awarded June 2022. Currently preparing for the position. <br><br>
 
-**Qualified Exhibition Supervisor**, [Museum of Warsaw]([https://www.ed.ac.uk/history-classics-archaeology](https://muzeumwarszawy.pl/en/)), UK <br>
+**Qualified Exhibition Supervisor**, [Museum of Warsaw](https://muzeumwarszawy.pl/en/), UK <br>
 *May 2022 - July 2022*<br>
 3 months placement. Required tasks included necessary preparations for the musuem to open or close, superivison of the museum exhibition during opening hours, working with other staff (curators and technical team) to ensure museum exhibitions safety, and engagement with the visitors. <br><br>
 
