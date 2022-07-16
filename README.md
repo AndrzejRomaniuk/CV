@@ -22,8 +22,7 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 **Accreditation**
 -	**Languages:**        English, Certificate of Proficiency in English
--	**Teaching:**          Advance HE, associate ; <br>
-                         The Carpentries, certified Data Carpentries instructor
+-	**Teaching:**          Advance HE, associate ; The Carpentries, certified Data Carpentries instructor
 -	**Digital:**           University of Edinburgh, Developing Your Data Skills 2020-2021
 -	**Driving:**           driving license (Pol/EU)
 
