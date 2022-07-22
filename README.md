@@ -15,10 +15,12 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 -	**Software:**          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS, TeX (MiKTeX)
 -	**Programming:**       R (RStudio), SQL (SQLite), Python
 -	**Languages:**         Polish (native), English (C2), Spanish (A2)
--	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching, research and museum collections, writing and publishing research papers
+-	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching, research and 
+museum collections, writing and publishing research papers
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
--	**Technology-related:**  documenting and hosting a coding project, usage of regular expressions, statistical programming, basics of machine learning and app creation in R, 3d scanning with EinScan light scanners
+-	**Technology-related:**  documenting and hosting a coding project, usage of regular expressions, statistical programming, basics of machine 
+learning and app creation in R, 3d scanning with EinScan light scanners
 
 **Accreditation**
 -	**Languages:**        English, Certificate of Proficiency in English
@@ -31,7 +33,10 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 **Doctor of Philosophy (PhD)** in Archaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – February 2022* <br>
-See NMS blog entry on the research [HERE](https://blog.nms.ac.uk/2018/04/04/of-voles-and-men/) and Twitter post [HERE](https://twitter.com/NatSciNMS/status/935119929292009472) <br>
+See NMS blog entry on the research [HERE](https://blog.nms.ac.uk/2018/04/04/of-voles-and-men/) and Twitter post 
+[HERE](https://twitter.com/NatSciNMS/status/935119929292009472) <br>
+See Orkney Museum blog entries [HERE](https://orkneymuseum.wordpress.com/2022/07/22/why-where-and-how-investigating-small-mammals-remains/) and 
+[HERE](https://orkneymuseum.wordpress.com/2022/07/22/why-where-and-how-investigating-small-mammals-remains-2/) <br>
 Side project on coprolites (fossilized faeces) published [HERE](https://doi.org/10.1007/s12520-020-01225-9) <br>
 Thesis available online [HERE](https://era.ed.ac.uk/handle/1842/38704) <br>
 
