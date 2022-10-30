@@ -56,6 +56,9 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 *September 2022 - June 2022*<br>
 Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves around the usage of geometric-morphometric analytical methods on archaeological material, and the comparison of the results with modern samples. <br><br>
 
+![Something from my current research project](Project2022Visual.jpg)
+
+
 **Qualified Exhibition Supervisor**, [Museum of Warsaw](https://muzeumwarszawy.pl/en/), PL <br>
 *May 2022 - July 2022*<br>
 3 months placement. Required tasks included necessary preparations for the musuem to open or close, superivison of the museum exhibition during opening hours, working with other staff (curators and technical team) to ensure museum exhibitions safety, and engagement with the visitors. <br><br>
