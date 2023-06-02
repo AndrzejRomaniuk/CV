@@ -1,7 +1,7 @@
 # 🐭GENERAL PROFILE
 ---
 
-Self-driven and passionate about his work, I am a published PhD graduate with background in micromammal archaeology and academic teaching, on the side slowly exploring the realm of coding. I hope to either continue my academic career or get a job where my skills may be of use.
+Self-driven and passionate about his work, I am a published PhD graduate with background in micromammal archaeology and academic teaching, on the side slowly exploring the realm of statistics and coding. I hope to either continue my academic career or find a place where my broad range of skills may be of use.
 
 [Email](mailto:v1aroman@ed.ac.uk) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/0000-0002-4977-9241) / [Researchgate](https://www.researchgate.net/profile/Andrzej-Romaniuk)
 
