@@ -64,8 +64,8 @@ Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves aro
 
 
 **Helper (2021)/Instructor (2022-3)**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
-*April 2021 / April 2022 / June 2022 / March2023 * <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, and [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/) for 2023 season. <br><br>
+*April 2021 / April 2022 / June 2022 / March-June 2023 * <br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-04-04-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-05-09-dusc-dc-online/) and [HERE](https://edcarp.github.io/2023-06-06-dusc-dc/) for 2023 season. <br><br>
 
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
