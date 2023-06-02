@@ -150,4 +150,4 @@ From a practicant and international exchange to a team specialist on various arc
   
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
 
-**Romaniuk, A 2022.** Projektowanie prostych aplikacji w R przy uzyciu SHINY. Repozytorium GitHub: [https://github.com/AndrzejRomaniuk/ShinySamouczek] 
+**Romaniuk, A 2022.** Projektowanie prostych aplikacji w R przy uzyciu SHINY. Repozytorium GitHub: [https://github.com/AndrzejRomaniuk/ShinySamouczek](https://github.com/AndrzejRomaniuk/ShinySamouczek)
