@@ -50,7 +50,7 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 # 🔨EXPERIENCE
 ---
 
-## WORKPLACE (last 10 years)
+## WORKPLACE (since 2013)
 
 **Postdoctoral Research Fellow**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2022 - August 2023*<br>
@@ -100,7 +100,7 @@ Tester for mobile applications, responsible for testing and documenting found is
 Responsible for collecting documentation for tender offers. <br><br>
 
 
-## VOLOUNTARY (since 2015)
+## VOLOUNTARY (since 2013)
 
 **Instructor**, [CAA Poland](https://pl.caa-international.org/), PL <br>
 *June 2022* <br>
@@ -149,5 +149,20 @@ From a practicant and international exchange to a team specialist on various arc
 ## TEACHING MATERIALS
   
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
+
+
+# 📖OTHER WRITTEN WORK (in Polish)
+---
+
+## STUDENT PUBLICATIONS
+
+**Romaniuk, AA 2013.** Kulty greckie na terenie Baktrii w okresie istnienia królestwa Greków
+Baktryjskich. In J. Hamburg ed. Szkice z Archeologii Bliskiego i Środkowego Wschodu: Tom II. Warsaw, PL: SKN ASBW „Szarkun”.
+
+**Romaniuk, AA 2012.** Slonie na Bliskim Wschodzie w Okresie Hellenistycznym. In W.Ejsmond & A.Romaniuk
+eds. Szkice z Archeologii Bliskiego i Środkowego Wschodu. Warsaw, PL: SKN ASBW „Szarkun”.
+
+
+## UNPUBLISHED TEACHING MATERIALS
 
 **Romaniuk, A 2022.** Projektowanie prostych aplikacji w R przy uzyciu SHINY. Repozytorium GitHub: [https://github.com/AndrzejRomaniuk/ShinySamouczek](https://github.com/AndrzejRomaniuk/ShinySamouczek)
