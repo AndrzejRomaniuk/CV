@@ -151,10 +151,10 @@ From a practicant and international exchange to a team specialist on various arc
 **Romaniuk, A 2021.** Building interactive web applications in R using SHINY. Zenodo DOI: [https://doi.org/10.5281/zenodo.5705151](https://doi.org/10.5281/zenodo.5705151)
 
 
-# 📖OTHER WRITTEN WORK (in Polish)
+# 📖OTHER WRITTEN WORK
 ---
 
-## STUDENT PUBLICATIONS
+## STUDENT PUBLICATIONS (in Polish)
 
 **Romaniuk, AA 2013.** Kulty greckie na terenie Baktrii w okresie istnienia królestwa Greków
 Baktryjskich. In J. Hamburg ed. Szkice z Archeologii Bliskiego i Środkowego Wschodu: Tom II. Warsaw, PL: SKN ASBW „Szarkun”.
@@ -165,4 +165,4 @@ eds. Szkice z Archeologii Bliskiego i Środkowego Wschodu. Warsaw, PL: SKN ASBW 
 
 ## UNPUBLISHED TEACHING MATERIALS
 
-**Romaniuk, A 2022.** Projektowanie prostych aplikacji w R przy uzyciu SHINY. Repozytorium GitHub: [https://github.com/AndrzejRomaniuk/ShinySamouczek](https://github.com/AndrzejRomaniuk/ShinySamouczek)
+**Romaniuk, A 2022.** Projektowanie prostych aplikacji w R przy uzyciu SHINY. Translation of Romaniuk, A. 2021 into Polish. GitHub: [https://github.com/AndrzejRomaniuk/ShinySamouczek](https://github.com/AndrzejRomaniuk/ShinySamouczek)
