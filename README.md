@@ -53,7 +53,7 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 ## WORKPLACE (since 2013)
 
 **Postdoctoral Research Fellow**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
-*September 2022 - August 2023*<br>
+*September 2022 - June (Funding End)/ August (Research Project End) 2023*<br>
 Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves around the usage of geometric-morphometric analytical methods on archaeological material, and the comparison of the results with modern samples. See below, one of the first images obtained from the archaeological samples.
 
 ![Something from my current research project](Project2022Visual.jpg) <br><br>
