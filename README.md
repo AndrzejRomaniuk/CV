@@ -38,7 +38,7 @@ See NMS blog entry on the research [HERE](https://blog.nms.ac.uk/2018/04/04/of-v
 See Orkney Museum blog entries [HERE](https://orkneymuseum.wordpress.com/2022/07/22/why-where-and-how-investigating-small-mammals-remains/) and 
 [HERE](https://orkneymuseum.wordpress.com/2022/07/22/why-where-and-how-investigating-small-mammals-remains-2/) <br>
 Side project on coprolites (fossilized faeces) published [HERE](https://doi.org/10.1007/s12520-020-01225-9) <br>
-Thesis available online [HERE](https://era.ed.ac.uk/handle/1842/38704) <br>
+Viva voce on 5th October 2021, thesis available online [HERE](https://era.ed.ac.uk/handle/1842/38704) <br>
 
 **Master in Science (MSc)** in Osteoarchaeology, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2014 – August 2015* <br>
