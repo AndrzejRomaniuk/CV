@@ -58,15 +58,13 @@ Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves aro
 
 ![Something from my current research project](Project2022Visual.jpg) <br><br>
 
+**Helper (2021)/Instructor (2022-3)**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
+*April 2021 / April 2022 / June 2022 / March-October 2023 * <br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-04-04-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-05-09-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-06-06-dusc-dc/), [HERE](https://edcarp.github.io/2023-09-12-dusc-dc-online/) and [HERE](https://edcarp.github.io/2023-10-10-dusc-dc-r-online/) for 2023 season. <br><br>
+
 **Qualified Exhibition Supervisor**, [Museum of Warsaw](https://muzeumwarszawy.pl/en/), PL <br>
 *May 2022 - July 2022*<br>
 3 months placement. Required tasks included necessary preparations for the musuem to open or close, superivison of the museum exhibition during opening hours, working with other staff (curators and technical team) to ensure museum exhibitions safety, and engagement with the visitors. <br><br>
-
-
-**Helper (2021)/Instructor (2022-3)**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
-*April 2021 / April 2022 / June 2022 / March-June 2023 * <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-04-04-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-05-09-dusc-dc-online/) and [HERE](https://edcarp.github.io/2023-06-06-dusc-dc/) for 2023 season. <br><br>
-
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
