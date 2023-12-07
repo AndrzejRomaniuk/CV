@@ -52,19 +52,27 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 
 ## WORKPLACE (since 2013)
 
-**Postdoctoral Research Fellow**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
+**DUSC Data Carpentry Coordinator**, [EPCC, University of Edinburgh](https://www.epcc.ed.ac.uk/), UK <br>
+*December 2023 - July 2024*<br>
+Overseeing multiple aspects of self-hosted data carpentries workshops, such as instructor and helper recruitment, workshop preparation, hosting and marketing, handling communications between workshop staff, participants and host institution (EPCC), including personal and finacial data. Additonally, teaching specific parts of the workshop in person. <br><br>
+
+
+**Postdoctoral Research Fellow**, [IASH, University of Edinburgh](https://www.iash.ed.ac.uk/), UK <br>
 *September 2022 - June (Funding End)/ August (Research Project End) 2023*<br>
-Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves around the usage of geometric-morphometric analytical methods on archaeological material, and the comparison of the results with modern samples. See below, one of the first images obtained from the archaeological samples.
+Related to IASH HCA fellowship, awarded June 2022. Project proposal revolves around the usage of geometric-morphometric analytical methods on archaeological material, and the comparison of the results with modern samples. See below, one of the first images obtained from the archaeological samples. Publication currently in preparation.
 
 ![Something from my current research project](Project2022Visual.jpg) <br><br>
 
+
 **Helper (2021)/Instructor (2022-3)**, [Edinburgh Carpentries](https://edcarp.github.io/), UK<br>
-*April 2021 / April 2022 / June 2022 / March-October 2023 * <br>
-During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-04-04-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-05-09-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-06-06-dusc-dc/), [HERE](https://edcarp.github.io/2023-09-12-dusc-dc-online/) and [HERE](https://edcarp.github.io/2023-10-10-dusc-dc-r-online/) for 2023 season. <br><br>
+*April 2021 / April-June 2022 / March-December 2023 * <br>
+During data carpentry sessions, organised by Edinburgh Carpentries as a part of the Data Skills Workforce Development programme (2021-2) and later Data Upskilling Short Courses (2023). See workshops pages [HERE](https://edcarp.github.io/2021-4-20-sfc-dc/) and [HERE](https://edcarp.github.io/2021-4-26-sfc-dc/) for 2021 season, [HERE](https://edcarp.github.io/2022-04-12-wfd-dc-online/) and [HERE](https://edcarp.github.io/2022-06-07-wfd-dc-online/) for 2022 season, [HERE](https://edcarp.github.io/2023-03-07-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-04-04-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-05-09-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-06-06-dusc-dc/), [HERE](https://edcarp.github.io/2023-09-12-dusc-dc-online/), [HERE](https://edcarp.github.io/2023-10-10-dusc-dc-r-online/) and [HERE](https://edcarp.github.io/2023-12-05-dusc-r-regex-sql-online/) for 2023 season. <br><br>
+
 
 **Qualified Exhibition Supervisor**, [Museum of Warsaw](https://muzeumwarszawy.pl/en/), PL <br>
 *May 2022 - July 2022*<br>
 3 months placement. Required tasks included necessary preparations for the musuem to open or close, superivison of the museum exhibition during opening hours, working with other staff (curators and technical team) to ensure museum exhibitions safety, and engagement with the visitors. <br><br>
+
 
 **Research/Teaching assistant**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *May 2020 – October 2021*<br>
@@ -74,7 +82,7 @@ Several contract or internal (contractless) work for the [School of History Clas
 -	Preparation of a tutorial on creating simple web applications for CDCS (see [HERE](https://doi.org/10.5281/zenodo.5705151), full citation in the Published Teaching Materials CV section)<br><br>
 
 
-**Lab Demonstrator**, [University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
+**Lab Demonstrator**, [HCA, University of Edinburgh](https://www.ed.ac.uk/history-classics-archaeology), UK <br>
 *September 2017 – August 2020*  <br>
 As a part of the School Doctoral Scholarship. Supported teaching by helping in or leading exercise sessions/open labs for both undergraduate and postgraduate courses, as well as by curating teaching collection of both animal and human skeletal remains. Worked with course organisers, [Dr Linda Fibiger](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_tab1_academic.php?uun=lfibiger) and [Dr Kathleen McSweeney](https://www.ed.ac.uk/history-classics-archaeology/about-us/staff-profiles/profile_academic.php?search=8&uun=kmcsween). Main courses included:  <br> 
 -	[Human Musculo-Skeletal Anatomy](http://www.drps.ed.ac.uk/15-16/dpt/cxpghc11367.htm)
