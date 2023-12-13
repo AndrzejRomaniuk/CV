@@ -3,7 +3,7 @@
 
 Self-driven and passionate about his work, I am a published PhD graduate with background in micromammal archaeology and academic teaching (statistics and statistical programming). I hope to either continue my academic career, combining archaeology and evoltionary biology, or find a place where my broad range of skills may be of use.
 
-[Email](mailto:v1aroman@ed.ac.uk) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/0000-0002-4977-9241) / [Researchgate](https://www.researchgate.net/profile/Andrzej-Romaniuk)
+[Email](mailto:andrzej.romaniuk@ed.ac.uk) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/0000-0002-4977-9241) / [Researchgate](https://www.researchgate.net/profile/Andrzej-Romaniuk)
 
 ![Everything can be classified, as long as you have appropriate data](Background.jpg)
 
