@@ -145,6 +145,8 @@ From a practicant and international exchange to a team specialist on various arc
 
 ## PEER-REVIEWED
 
+**Romaniuk, AA, Renaud, S, Bendrey, R, Searle, J, Owen, O, & J Herman 2024** Insular evolution from an archaeological perspective: a case study of Orkney house mouse. Biological Journal of The Linnean Society **in prep** DOI: [https://doi.org/10.1093/biolinnean/blae005](https://doi.org/10.1093/biolinnean/blae005)
+
 **Romaniuk, AA, Troalen, LG, Bendrey, R, Herman, JS, Owen, O & C Smith 2023** Pests or Prey? Micromammal species within an ancient anthropic environment at the Norse settlement site of Tuquoy (Westray, Orkney). Royal Society Open Science 10 (4) DOI: [https://royalsocietypublishing.org/doi/10.1098/rsos.221462](https://royalsocietypublishing.org/doi/10.1098/rsos.221462)
 
 **Romaniuk, AA, Panciroli, E, Buckley, M, Pal Chowdhury, M, Willars, C, Herman, JS, Troalen, L, Shepherd, AN, Clarke, DV, Sheridan, AS, van Dongen, BE, Butler, IB & R Bendrey 2020.** Combined visual and biochemical analyses confirm depositor and diet for Neolithic coprolites from Skara Brae. Journal of Archaeological and Anthropological Sciences 12 (274) DOI: [https://doi.org/10.1007/s12520-020-01225-9](https://doi.org/10.1007/s12520-020-01225-9)
