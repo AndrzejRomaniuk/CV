@@ -1,7 +1,7 @@
 # 🐭GENERAL PROFILE
 ---
 
-Self-driven and passionate about his work, I am a published PhD graduate with background in micromammal archaeology and academic teaching (statistics and statistical programming). I hope to either continue my academic career, combining archaeology and evoltionary biology, or find a place where my broad range of skills may be of use.
+Self-driven and passionate about his work, I am a published PhD graduate with a background in micromammal archaeology and academic teaching (statistics and statistical programming). I hope to either continue my academic career, combining archaeology and evolutionary biology to investigate human impact on both domesticated and wild species evolution or find a place where my broad range of skills may be of use.
 
 [Email](mailto:andrzej.romaniuk@ed.ac.uk) / [LinkedIn](https://www.linkedin.com/in/andrzej-aleksander-romaniuk-74145292/) / [ORCID](https://orcid.org/0000-0002-4977-9241) / [Researchgate](https://www.researchgate.net/profile/Andrzej-Romaniuk)
 
@@ -13,14 +13,14 @@ Self-driven and passionate about his work, I am a published PhD graduate with ba
 
 **Key Skills**
 -	**Software:**          MS Office (Word, Excel, PowerPoint, Outlook), OpenRefine, MeshLab, SPSS, TeX (MiKTeX)
--	**Programming:**       R (RStudio), SQL (SQLite), Python
--	**Languages:**         Polish (native), English (C2), Spanish (A2)
+-	**Programming:**       R (RStudio), SQL (SQLite), Python (IDLE/Jupyter)
+-	**Languages:**         Polish (native), English (fluent - C2), Spanish (communicative - A2)
 -	**Organisation:**      conducting literature review and research, research assistance, event preparation, curation of teaching, research and 
-museum collections, writing and publishing research papers
+museum collections, writing and publishing research papers, HR & financial administration (research/teaching projects)
 -	**Teaching:**          preparation/supervision of lab exercises, workshops, practical examinations and
                      open labs, supporting learning, creating necessary teaching aids (e.g. handouts)
 -	**Technology-related:**  documenting and hosting a coding project, usage of regular expressions, statistical programming, basics of machine 
-learning and app creation in R, 3d scanning with EinScan light scanners
+learning and app creation in R, 3d scanning with EinScan light scanners, using Github for handling open projects
 
 **Accreditation**
 -	**Languages:**        English, Certificate of Proficiency in English
