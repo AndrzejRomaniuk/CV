@@ -53,8 +53,8 @@ Thesis results published [HERE](http://rsos.royalsocietypublishing.org/content/3
 ## WORKPLACE (since 2013)
 
 **DUSC Data Carpentry Coordinator**, [EPCC, University of Edinburgh](https://www.epcc.ed.ac.uk/), UK <br>
-*December 2023 - July 2024*<br>
-Overseeing multiple aspects of self-hosted data carpentries workshops, such as instructor and helper recruitment, workshop preparation, hosting and marketing, handling communications between workshop staff, participants and host institution (EPCC), including personal and finacial data. Additonally, teaching specific parts of the workshop in person. <br><br>
+*December 2023 (till April 2025)*<br>
+Originally overseeing multiple aspects of self-hosted data carpentries workshops, such as instructor and helper recruitment, workshop preparation, hosting and marketing, handling communications between workshop staff, participants and host institution (EPCC), including personal and finacial data. Additonally, teaching specific parts of the workshop in person. From June 2024 a project manager for the Software Sustainability Institute dissemination project, see the details [HERE](https://www.software.ac.uk/research-software-practices-social-sciences). <br><br>
 
 
 **Postdoctoral Research Fellow**, [IASH, University of Edinburgh](https://www.iash.ed.ac.uk/), UK <br>
